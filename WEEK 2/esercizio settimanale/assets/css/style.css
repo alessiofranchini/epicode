@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap');
+
+.content {
+    text-align: center;
+}
+
+.tasto {
+    background-color: black;
+    color: white;
+    font-size: 22pt;
+    border: none;
+    margin: 4px 2px;
+    height: 40px;
+    width: 46px;
+}
+
+.display {
+    background-color: black;
+    color: white;
+    font-size: 24pt;
+    border: black solid 2px;
+    margin: 4px 2px;
+    width: 204px;
+    height: 40px;
+}
+
+.uguale {
+    width: 208px;
+    background-color: #fe9104;
+}
+
+.operazione {
+    background-color: #fe9104;
+    color: white;
+    font-size: 22pt;
+    border: none;
+    margin: 4px 2px;
+    height: 40px;
+    width: 46px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 10%;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(/assets/img/depositphotos_13805186-stock-photo-mathematic-school-background-illustration.jpg);
+    background-size: 70rem;
+}
+
