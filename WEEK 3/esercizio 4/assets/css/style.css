@@ -1,0 +1,18 @@
+body {
+    background-image: url(/assets/img/f1dd004d-5eaf-4fe8-a8a1-8d5117103fd8.jpg);
+    background-size: 35em;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+hr {
+    opacity: 0;
+}
+
+.myHeading {
+    color: red;
+}
+
+h2 {
+    color: red;
+}
