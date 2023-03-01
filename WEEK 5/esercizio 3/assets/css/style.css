@@ -1,0 +1,25 @@
+@media screen and (min-width: 300px)
+{
+    .logo{
+        width: 30px;
+    }
+    
+    .logoimg{
+        width: 100%;
+    }
+
+    .header{
+        background-color:#fef7e2;
+        flex-wrap: wrap;
+        display: flex;
+    }
+
+    button{
+        background-color:#fbdf7f;
+        border: none;
+        border-radius: 10px;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        display: flex;
+    }
+}
