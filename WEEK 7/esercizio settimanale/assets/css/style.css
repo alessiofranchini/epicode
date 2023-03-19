@@ -1,0 +1,19 @@
+small {
+  font-size: 0.5em;
+}
+nav .navbar-brand {
+  width: 15% !important;
+  max-width: 100px;
+}
+
+nav img {
+  width: 100%;
+}
+.card {
+  width: 100%;
+  aspect-ratio: 3/5;
+}
+.card img {
+  width: 100%;
+  aspect-ratio: 1/1;
+}
